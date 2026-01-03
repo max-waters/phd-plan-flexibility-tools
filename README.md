@@ -4,7 +4,7 @@ This repository countains two programs, MRR and MKTR, that relax plans into more
 MRR finds a *minimum reinstantiated reorder* of the input plan, that is, it searches for the set of variable bindings that allow for the greatest reduction in its ordering constraints.
 MKTR relaxes a plan into a minimal *partial plan*, which specifies which operators must be executed without fully specifying their order or their variable bindings.
 
-For a complete description of MRR please see the IJCAI 2020 paper by Waters et al., [*Optimising Partial-Order Plans Via Action Reinstantiation*](https://www.ijcai.org/Proceedings/2020/573), and for MKTR, please see the ICAPS 2018 paper by Waters et al., [*Plan Relaxation via Action Debinding and Deordering*](https://www.aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/viewPaper/17765). For more context, see Waters, [*Improving Plan Flexibility By Reasoning About Action Orderings and Instantiations*](https://research-repository.rmit.edu.au/articles/thesis/Improving_plan_flexibility_by_reasoning_about_action_orderings_and_instantiations/27598902)
+For a complete description of MRR please see the IJCAI 2020 paper by Waters et al., [*Optimising Partial-Order Plans Via Action Reinstantiation*](https://www.ijcai.org/Proceedings/2020/573), and for MKTR, please see the ICAPS 2018 paper by Waters et al., [*Plan Relaxation via Action Debinding and Deordering*](https://www.aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/viewPaper/17765). For more context, see Waters, [*Improving Plan Flexibility By Reasoning About Action Orderings and Instantiations*](https://research-repository.rmit.edu.au/articles/thesis/Improving_plan_flexibility_by_reasoning_about_action_orderings_and_instantiations/27598902).
 
 ## Compilation
 
